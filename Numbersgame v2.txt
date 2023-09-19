@@ -1,0 +1,10 @@
+﻿Build started...
+1>------ Build started: Project: NumbersGame, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>E:\C#\NumbersGame\NumbersGame\Program.cs(10,41,10,57): warning CS8974: Converting method group 'ReadLine' to non-delegate type 'object'. Did you intend to invoke the method?
+1>E:\C#\NumbersGame\NumbersGame\Program.cs(23,21,23,22): warning CS0642: Possible mistaken empty statement
+1>E:\C#\NumbersGame\NumbersGame\Program.cs(12,32,12,33): warning CS0162: Unreachable code detected
+1>NumbersGame -> E:\C#\NumbersGame\NumbersGame\bin\Debug\net6.0\NumbersGame.dll
+1>Done building project "NumbersGame.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:50 and took 00,279 seconds ==========
